@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ASUS/Documents/Unreal Projects/TestProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/ASUS/Documents/Unreal Projects/TestProject/Content/PB_Classes/bp_myActor.uasset",
+				"C:/Users/ASUS/Documents/Unreal Projects/TestProject/Content/PB_Classes/bp_sphere.uasset"
+			]
+		}
+	]
+}
